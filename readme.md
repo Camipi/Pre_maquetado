@@ -82,7 +82,8 @@ Se pide crear una maqueta de la página "acerca de". En ella desean mostrar a su
 .footer__tiatomato
 
 
-
+### Link to GitHub Pages ###
+https://camipi.github.io/Pre_maquetado/
 
 
 
