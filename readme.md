@@ -86,4 +86,24 @@ Se pide crear una maqueta de la página "acerca de". En ella desean mostrar a su
 https://camipi.github.io/Pre_maquetado/
 
 
+### Directorio ###
 
+pre-maquetado(carpeta raíz)
+|
+|__ assets
+|           |__ css
+|           |       |__ styles.css
+|           |
+|           |__ js
+|           |       |__ script.js
+|           |
+|           |__img
+|           |       |__ mobile.jpg
+|			|			sketch.jpg
+|			|			tiatomate-desktop.png
+|			|			tiatomate-guia-de-estilos.png
+|           |
+|           |__ fonts
+|                    |__ fuentes
+|          
+|__ index.html
