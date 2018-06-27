@@ -54,4 +54,4 @@ Requerimientos visuales
 		- No se utilizar iconos.
 
 
-![Wireframe](assets/img/mobile.jpg?raw=true "DEsktop")
+![Wireframe](assets/img/sketch.jpg?raw=true "Desktop")
