@@ -53,5 +53,8 @@ Requerimientos visuales
 	- Iconos:
 		- No se utilizar iconos.
 
+Wireframes para desktop y mobile
 
 ![Wireframe](assets/img/sketch.jpg?raw=true "Desktop")
+
+![Wireframe](assets/img/mobile.jpg?raw=true "Mobile")
