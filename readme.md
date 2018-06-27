@@ -5,7 +5,8 @@ Pre-maquetado de página Tía Tomate
 Perfil del cliente
 Tía Tomate, es una empresa productora de tomates orgánicos.
 Se pide crear una maqueta de la página "acerca de". En ella desean mostrar a sus clientes una pequeña reseña sobre su historia, la procedencia de sus productos y mostrar a las personas que trabajan cosechando estas verduras.
-Requerimientos
+
+Requerimientos del cliente
 	• Ser responsiva
 	• Mostrar la pasión que sienten por sus tomates
 	• Dar énfasis a la compra de sus productos
@@ -51,3 +52,6 @@ Requerimientos visuales
 		- Entregadas por el cliente, en la guía de estilos proporcionada por el diseñador.
 	- Iconos:
 		- No se utilizar iconos.
+
+
+![Wireframe](assets/img/mobile.jpg?raw=true "DEsktop")
